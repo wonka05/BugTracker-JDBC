@@ -13,7 +13,7 @@ A desktop-based **Bug Tracking System** built using **Java Swing**, **JDBC**, an
 - Set bug priority (Low, Medium, High)
 - Search and filter bug reports
 - Dashboard to manage all bugs
-- MySQL database integration using JDBC
+- MySQL database integration with JDBC
 
 ---
 
@@ -23,7 +23,7 @@ A desktop-based **Bug Tracking System** built using **Java Swing**, **JDBC**, an
 - **GUI:** Java Swing
 - **Database:** MySQL
 - **Connectivity:** JDBC
-- **IDE:** Eclipse
+- **IDE:** IntelliJ Idea
 
 ---
 
@@ -56,7 +56,7 @@ Before running the project, ensure you have:
 
 - Java JDK 17 or later
 - MySQL Server
-- Eclipse IDE (or any Java IDE)
+- IntelliJ Idea (or any other Java IDE)
 - MySQL Connector/J
 
 ---
@@ -98,7 +98,7 @@ private static final String PASSWORD = "your_password";
 git clone https://github.com/wonka05/BugTracker-JDBC.git
 ```
 
-2. Open the project in Eclipse.
+2. Open the project in IntelliJ Idea.
 
 3. Add the MySQL Connector JAR to the project's build path.
 
